@@ -1,2 +1,10 @@
 W1/catboost_info/*
 
+W_1/catboost_info/learn_error.tsv
+W_1/catboost_info/test_error.tsv
+W_1/catboost_info/time_left.tsv
+W_1/catboost_info/learn/events.out.tfevents
+W_1/catboost_info/test/events.out.tfevents
+W_1/catboost_info/catboost_training.json
+W_1/.ipynb_checkpoints/Warsaw_rent_prices_workshop_EMPTY-checkpoint.ipynb
+W_1/.ipynb_checkpoints/Warsaw_rent_prices_workshop-checkpoint.ipynb
